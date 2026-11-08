@@ -1,0 +1,50 @@
+========================================================================
+   PANDUAN PENGGUNAAN SHORTCUT DESKTOP & DEPLOY CLOUD — ASTRA IELTS PRO
+   (80 Paket Latihan Cambridge 5, 6, 7, 8, 9, 13 + 200 Flashcards)
+========================================================================
+
+A. CARA MEMBUAT SHORTCUT DI LAYAR DESKTOP KOMPUTER (WINDOWS / MAC)
+------------------------------------------------------------------------
+1. Pengguna Windows (Otomatis 1-Klik):
+   - Ekstrak seluruh isi file ZIP ini ke dalam satu folder (misal di Documents).
+   - Klik 2x pada file: "Buat_Shortcut_di_Desktop_Windows.bat"
+   - Ikon pintasan bernama "Astra IELTS Pro" akan otomatis muncul di layar
+     Desktop Anda!
+   - Anda juga bisa klik 2x "Buka_Astra_IELTS_App_Mode.bat" kapan saja untuk
+     membuka aplikasi dalam jendela mandiri seperti software desktop asli
+     (tanpa bilah alamat browser).
+
+2. Pengguna macOS:
+   - Klik 2x pada file "Buka_Astra_IELTS_Mac.command" (atau buka
+     "Astra_IELTS_Pro.html" di Chrome/Safari lalu tarik ikonnya ke Dock).
+
+3. Lewat Menu Browser Chrome / Microsoft Edge (Semua OS):
+   - Buka "Astra_IELTS_Pro.html" di Chrome atau Edge.
+   - Klik menu titik tiga (⋮) di pojok kanan atas browser.
+   - Pilih "Save and share" (Simpan dan bagikan) -> "Create shortcut..."
+   - Centang kotak "Open as window" (Buka sebagai jendela) -> klik "Create".
+
+
+B. CARA DEPLOY ONLINE AGAR BISA DIAKSES DARI MANA SAJA (HP / TABLET / LAPTOP)
+------------------------------------------------------------------------
+Paket ZIP ini sudah dilengkapi dengan `index.html`, `manifest.json`, `sw.js`,
+`netlify.toml`, dan `vercel.json` sehingga siap di-online-kan gratis dalam
+hitungan detik:
+
+OPSI 1: NETLIFY DROP (Paling Mudah — 10 Detik Tanpa Coding)
+1. Buka situs https://app.netlify.com/drop di browser Anda.
+2. Tarik (drag & drop) folder hasil ekstrak ZIP ini (atau langsung file ZIP ini)
+   ke kotak unggah di halaman Netlify Drop.
+3. Anda langsung mendapatkan link web aktif (misal: https://astra-ielts.netlify.app)
+   yang bisa dibuka di HP Android, iPhone, iPad, maupun laptop di mana saja!
+
+OPSI 2: TIINY.HOST (Langsung Upload 1 File)
+1. Buka https://tiiny.host
+2. Unggah file `Astra_IELTS_Pro.html` atau file ZIP ini, beri nama link yang
+   Anda inginkan, lalu klik Publish.
+
+OPSI 3: VERCEL / GITHUB PAGES / CLOUDFLARE PAGES
+1. Unggah isi folder ini ke repositori GitHub atau dashboard https://vercel.com
+2. Karena sudah ada `index.html` dan `vercel.json`, aplikasi otomatis online
+   dengan dukungan Progressive Web App (PWA) yang bisa di-install ke layar
+   utama (Add to Home Screen) di Android & iOS!
